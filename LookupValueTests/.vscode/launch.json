@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Your own server",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "server": "http://bison",
+            "serverInstance": "bc",
+            "authentication": "UserPassword",
+            "startupObjectId": 130401,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformati onDebugger": true,
+            "tenant": "default"
+        }
+    ]
+}

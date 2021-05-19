@@ -1,4 +1,4 @@
-codeunit 70000 "LookupValue UT Customer"
+codeunit 80000 "LookupValue UT Customer"
 {
     Subtype = Test;
 
